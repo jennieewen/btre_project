@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f004cec4-a8e0-4d66-a960-dfd730bd8fd7" name="Default Changelist" comment="" />
+    <list default="true" id="f004cec4-a8e0-4d66-a960-dfd730bd8fd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/btre/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="82" column="5" selection-start-line="81" selection-end-line="89" selection-end-column="1" />
+            <state relative-caret-position="1135">
+              <caret line="141" column="15" lean-forward="true" selection-start-line="141" selection-start-column="15" selection-end-line="141" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -193,11 +195,6 @@
               <item name="btre_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="btre_project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="btre_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btre_project" type="462c0819:PsiDirectoryNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -268,22 +265,21 @@
       <option name="presentableId" value="Default" />
       <updated>1551026025467</updated>
       <workItem from="1551026026742" duration="13718000" />
-      <workItem from="1551061161877" duration="76425000" />
+      <workItem from="1551061161877" duration="77840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90143000" />
+    <option name="totallyTimeSpent" value="91558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="2" width="710" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.3276923" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3276923" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.37873754" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.37873754" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="4" />
@@ -708,8 +704,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/btre/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="82" column="5" selection-start-line="81" selection-end-line="89" selection-end-column="1" />
+        <state relative-caret-position="1135">
+          <caret line="141" column="15" lean-forward="true" selection-start-line="141" selection-start-column="15" selection-end-line="141" selection-end-column="15" />
         </state>
       </provider>
     </entry>
