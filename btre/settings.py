@@ -145,13 +145,6 @@ MESSAGE_TAGS = {
 }
 
 
-# Email config
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER='jenniferwen1991@gmail.com'
-EMAIL_HOST_PASSWORD='Wjennifer33'
-EMAIL_USE_TLS=True
-
 # For use in our production server
 try:
     from .local_settings import *
